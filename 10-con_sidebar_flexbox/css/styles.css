@@ -48,17 +48,19 @@ p {
 }
 
 
-/** CODIGO AQUI **/
+/* ----------------------- Media Queries .con-sidebar ----------------------- */
 
-@media (min-width: 768px) {
-    .con-sidebar {
+@media (min-width: 768px) { 
+    .con-sidebar{
         display: flex;
         gap: 2rem;
     }
-    aside {
+
+    aside{
         flex: 1;
     }
-    article {
+
+    article{
         flex: 3;
     }
 }

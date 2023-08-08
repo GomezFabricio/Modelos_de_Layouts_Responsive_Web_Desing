@@ -36,7 +36,7 @@ p {
     text-transform: uppercase;
 }
 
-/** CODIGO AQUI **/
+/* ------------------------ Media Queries .contenedor ----------------------- */
 
 .contenedor {
     max-width: 120rem;
